@@ -126,7 +126,7 @@ I enjoy solving complex problems by combining AI, backend engineering, and moder
 
 - 📧 **Email:** chandraprashun@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/prasun-chandra-6251bb146/
-- 💻 **GitHub:** https://github.com/chandraprashun-2002
+
 
 ---
 
