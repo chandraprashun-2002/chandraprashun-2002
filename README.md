@@ -36,33 +36,7 @@ I enjoy combining **Generative AI, backend engineering, frontend development, an
 
 ---
 
-## 💼 Professional Experience
 
-### 🤖 Full Stack  Developer | Assisto Technologies
-
-**Noida, Uttar Pradesh | January 2025 – February 2026**
-
-- Built AI-powered applications using **LangChain**, integrating **OpenAI GPT-4o, Google Gemini, Anthropic Claude, and Groq API** for contextual reasoning and task automation.
-- Designed **RAG pipelines** using ChromaDB, Vector Embeddings, and Semantic Search to improve response accuracy and knowledge retrieval.
-- Developed AI workflow automations using **n8n and Make**, integrating multiple third-party APIs for business process automation.
-- Built scalable RESTful APIs using **FastAPI, Async Python, WebSockets, JSON Schema validation, and streaming AI responses**.
-- Developed responsive web applications using **React.js, Next.js, TypeScript, and Redux**.
-- Built reusable UI components and integrated frontend applications with backend RESTful APIs.
-- Collaborated with UI/UX and cross-functional teams using **Figma, Git, and GitHub** in Agile development environments.
-- Deployed production-ready applications on **Vercel**.
-
----
-
-### 🐍 Python Developer Intern | Dew Solutions
-
-**Gurugram, Haryana | June 2024 – November 2024**
-
-- Developed RESTful APIs using **Python and Flask**, implementing backend business logic and CRUD operations.
-- Implemented **JWT authentication and authorization** to secure API endpoints.
-- Designed and managed **MySQL databases**.
-- Tested APIs using **Postman** and collaborated using **Git**.
-
----
 
 ## 🛠️ Technical Skills
 
