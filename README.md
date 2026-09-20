@@ -38,7 +38,7 @@ I enjoy combining **Generative AI, backend engineering, frontend development, an
 
 ## 💼 Professional Experience
 
-### 🤖 AI Developer | Assisto Technologies
+### 🤖 Full Stack  Developer | Assisto Technologies
 
 **Noida, Uttar Pradesh | January 2025 – February 2026**
 
